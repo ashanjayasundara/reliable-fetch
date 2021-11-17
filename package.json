@@ -1,0 +1,28 @@
+{
+  "name": "reliable-fetch",
+  "version": "1.0.0",
+  "description": "Fetch API Request with Backoff and Retry mechanism",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashanjayasundara/reliable-fetch.git"
+  },
+  "keywords": [
+    "nodejs",
+    "fetch",
+    "reliable",
+    "http",
+    "axio",
+    "backoff",
+    "retry"
+  ],
+  "author": "Ashan Jayasundara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashanjayasundara/reliable-fetch/issues"
+  },
+  "homepage": "https://github.com/ashanjayasundara/reliable-fetch#readme"
+}
