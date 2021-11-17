@@ -77,3 +77,5 @@ const reliableFetch = (URL, requestInit, callback, options) => {
     });
 
 }
+
+module.exports = reliableFetch;
